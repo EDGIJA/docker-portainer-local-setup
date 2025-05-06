@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Portainer
+Comment=Manage your Docker containers locally
+Exec=/home/<username>/portainer_start.sh
+Icon=/home/<username>/Applications/portainer/portainer-icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Development;System;
