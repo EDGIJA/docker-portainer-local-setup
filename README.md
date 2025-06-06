@@ -70,6 +70,11 @@ ln -s /absolute/path/to/portainer.desktop ~/.config/autostart/
 ln -s /absolute/path/to/portainer.desktop ~/.local/share/applications/
 ```
 
+En caso de que portainer deje de funcionar en localhost o se desconfigure, se debe de ejecutar el script: fix-portainer.sh y posteriormente hacerlo ejecutable con: 
+```bash
+chmod +x ~/fix-portainer.sh
+```
+
 ---
 
 ## 🌐 License
